@@ -1,0 +1,3 @@
+HIDDEN MODULES FOR THE APK TO BUILD PROPERLY:
+- scipy._lib.array_api_compat.numpy.fft
+- scipy.special._special_ufuncs
